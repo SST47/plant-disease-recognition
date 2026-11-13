@@ -1,0 +1,7 @@
+# datasets and model weights (too big for git)
+PlantVillage-Dataset/
+dataset_balanced/
+*.pth
+*.pt
+.ipynb_checkpoints/
+.DS_Store
